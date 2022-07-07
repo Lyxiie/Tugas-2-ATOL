@@ -1,0 +1,30 @@
+body {
+    background-color:lightgray;
+}
+
+.login {
+    margin: 250px auto;
+    width: 190px;
+    padding: 50px;
+    border: 1px solid #ccc;
+    background: black;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.btnlogin {
+    padding: 10px;
+    border-radius: 10px;  
+}
+
+.btnlogin:hover {
+    background-color: gray;
+    color: white;
+}
+.navigator {
+    background-color: black;
+    color: white;
+    font-family:serif;
+    text-align: center;
+}
